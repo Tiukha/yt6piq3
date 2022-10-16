@@ -2,7 +2,7 @@
 
 配方：℞ **Tiukha/yt6piq3**
 
-基於 [Rime](https://rime.im/) 的中古漢語拼音粵語拼音Tiukha快速方案。
+基於 [Rime](https://rime.im/) 的粵語拼音Tiukha快速方案。
 
 ## 雙字母簡化
 
