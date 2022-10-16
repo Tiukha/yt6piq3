@@ -1,4 +1,4 @@
-# 粵語拼音Tiukha快速方案
+# 粵語拼音Tiukha快速打字方案
 
 配方：℞ **Tiukha/yt6piq3**
 
